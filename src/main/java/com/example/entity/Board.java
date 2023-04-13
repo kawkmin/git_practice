@@ -16,4 +16,6 @@ public class Board {
     private Long boardId;
 
     private String title;
+
+    private String detail;
 }
