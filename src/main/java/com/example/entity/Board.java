@@ -17,5 +17,5 @@ public class Board {
 
     private String title;
 
-    private String details;
+    private String detail;
 }
