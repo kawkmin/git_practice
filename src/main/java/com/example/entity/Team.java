@@ -14,5 +14,5 @@ public class Team {
 
   @Id
   @GeneratedValue
-  private Long id;
+  private Long teamId;
 }
