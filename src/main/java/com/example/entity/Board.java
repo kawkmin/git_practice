@@ -13,7 +13,7 @@ import lombok.RequiredArgsConstructor;
 public class Board {
     @Id
     @GeneratedValue
-    private Long id;
+    private Long boardId;
 
     private String title;
 }
